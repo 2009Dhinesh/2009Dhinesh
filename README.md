@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![]([https://github-contributor-stats.vercel.app/api?username=2009Dhinesh&limit=5&theme=blue-green&combine_all_yearly_contributions=true](https://bad-bank-client.onrender.com))
+![]([https://bad-bank-client.onrender.com])
 
 ---
 [![](https://visitcount.itsvg.in/api?id=2009Dhinesh&icon=0&color=0)](https://visitcount.itsvg.in)
