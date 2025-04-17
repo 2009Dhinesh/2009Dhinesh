@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently pursuing an MCA
+👯 I’m looking for a job as a Full Stack Developer
+🤝 I’m open to collaboration and learning from others
+🌱 I’m currently learning Mobile App Development
+💬 Ask me about Web Development, JavaScript, or React
+⚡ Fun fact: I love building creative solutions to real-world problems!
 
 
 ## 🌐 Socials:
