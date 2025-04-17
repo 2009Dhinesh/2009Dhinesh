@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently pursuing an MCA
-👯 I’m looking for a job as a Full Stack Developer
-🤝 I’m open to collaboration and learning from others
-🌱 I’m currently learning Mobile App Development
-💬 Ask me about Web Development, JavaScript, or React
+🔭 I’m currently pursuing an MCA <br>
+👯 I’m looking for a job as a Full Stack Developer  <br>
+🤝 I’m open to collaboration and learning from others  <br>
+🌱 I’m currently learning Mobile App Development  <br>
+💬 Ask me about Web Development, JavaScript, or React  <br>
 ⚡ Fun fact: I love building creative solutions to real-world problems!
 
 
