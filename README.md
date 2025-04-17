@@ -23,8 +23,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![]([https://bad-bank-client.onrender.com])
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=2009Dhinesh&icon=0&color=0)](https://visitcount.itsvg.in)
