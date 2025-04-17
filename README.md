@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+
 # 💫 About Me:
 🔭 I’m currently pursuing an MCA<br>👯 I’m looking for a job as a Full Stack Developer<br>🤝 I’m open to collaboration and learning from others<br>🌱 I’m currently learning Mobile App Development<br>💬 Ask me about Web Development, JavaScript, or React<br>⚡ Fun fact: I love building creative solutions to real-world problems!
 
